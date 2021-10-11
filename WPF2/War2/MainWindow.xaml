@@ -1,0 +1,11 @@
+﻿<Window x:Class="War2.MainWindow"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ Title="UniformGrid" Height="350" Width="525">
+    <UniformGrid Rows="2" Columns="2">
+        <TextBlock Background="#FFC1D82D" Padding="10">1</TextBlock>
+        <TextBlock Background="#FF6D3B8F" Padding="10">2</TextBlock>
+        <TextBlock Background="#FF09B8B0" Padding="10">3</TextBlock>
+        <TextBlock Background="#FFB290A4" Padding="10">4</TextBlock>
+    </UniformGrid>
+</Window>

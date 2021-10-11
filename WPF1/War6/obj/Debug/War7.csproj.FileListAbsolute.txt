@@ -1,0 +1,15 @@
+D:\Пары\Git\WPF_Tests\WPF1\War6\bin\Debug\War6.exe.config
+D:\Пары\Git\WPF_Tests\WPF1\War6\bin\Debug\War6.exe
+D:\Пары\Git\WPF_Tests\WPF1\War6\bin\Debug\War6.pdb
+D:\Пары\Git\WPF_Tests\WPF1\War6\obj\Debug\War7.csprojAssemblyReference.cache
+D:\Пары\Git\WPF_Tests\WPF1\War6\obj\Debug\MainWindow.g.cs
+D:\Пары\Git\WPF_Tests\WPF1\War6\obj\Debug\App.g.cs
+D:\Пары\Git\WPF_Tests\WPF1\War6\obj\Debug\War6_MarkupCompile.cache
+D:\Пары\Git\WPF_Tests\WPF1\War6\obj\Debug\War6_MarkupCompile.lref
+D:\Пары\Git\WPF_Tests\WPF1\War6\obj\Debug\MainWindow.baml
+D:\Пары\Git\WPF_Tests\WPF1\War6\obj\Debug\War6.g.resources
+D:\Пары\Git\WPF_Tests\WPF1\War6\obj\Debug\War6.Properties.Resources.resources
+D:\Пары\Git\WPF_Tests\WPF1\War6\obj\Debug\War7.csproj.GenerateResource.cache
+D:\Пары\Git\WPF_Tests\WPF1\War6\obj\Debug\War7.csproj.CoreCompileInputs.cache
+D:\Пары\Git\WPF_Tests\WPF1\War6\obj\Debug\War6.exe
+D:\Пары\Git\WPF_Tests\WPF1\War6\obj\Debug\War6.pdb

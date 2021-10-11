@@ -1,0 +1,14 @@
+﻿<Window x:Class="War4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:War4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="354.316" Width="218.316">
+    <Grid>
+        <Calendar x:Name="calendar" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" SelectedDatesChanged="Calendar_SelectedDatesChanged"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="10,223,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Выбранная дата"/>
+
+    </Grid>
+</Window>

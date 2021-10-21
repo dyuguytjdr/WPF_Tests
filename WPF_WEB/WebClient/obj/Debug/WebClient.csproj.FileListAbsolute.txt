@@ -1,0 +1,15 @@
+D:\Пары\Git\WPF_Tests\WPF_WEB\WebSystem\bin\Debug\WebSystem.exe.config
+D:\Пары\Git\WPF_Tests\WPF_WEB\WebSystem\bin\Debug\WebSystem.exe
+D:\Пары\Git\WPF_Tests\WPF_WEB\WebSystem\bin\Debug\WebSystem.pdb
+D:\Пары\Git\WPF_Tests\WPF_WEB\WebSystem\obj\Debug\WebClient.csproj.AssemblyReference.cache
+D:\Пары\Git\WPF_Tests\WPF_WEB\WebSystem\obj\Debug\MainWindow.g.cs
+D:\Пары\Git\WPF_Tests\WPF_WEB\WebSystem\obj\Debug\App.g.cs
+D:\Пары\Git\WPF_Tests\WPF_WEB\WebSystem\obj\Debug\WebSystem_MarkupCompile.cache
+D:\Пары\Git\WPF_Tests\WPF_WEB\WebSystem\obj\Debug\WebSystem_MarkupCompile.lref
+D:\Пары\Git\WPF_Tests\WPF_WEB\WebSystem\obj\Debug\MainWindow.baml
+D:\Пары\Git\WPF_Tests\WPF_WEB\WebSystem\obj\Debug\WebSystem.g.resources
+D:\Пары\Git\WPF_Tests\WPF_WEB\WebSystem\obj\Debug\WebSystem.Properties.Resources.resources
+D:\Пары\Git\WPF_Tests\WPF_WEB\WebSystem\obj\Debug\WebClient.csproj.GenerateResource.cache
+D:\Пары\Git\WPF_Tests\WPF_WEB\WebSystem\obj\Debug\WebClient.csproj.CoreCompileInputs.cache
+D:\Пары\Git\WPF_Tests\WPF_WEB\WebSystem\obj\Debug\WebSystem.exe
+D:\Пары\Git\WPF_Tests\WPF_WEB\WebSystem\obj\Debug\WebSystem.pdb

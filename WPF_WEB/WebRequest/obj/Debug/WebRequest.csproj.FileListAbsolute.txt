@@ -1,0 +1,14 @@
+D:\Пары\Git\WPF_Tests\WPF_WEB\Request\bin\Debug\Request.exe.config
+D:\Пары\Git\WPF_Tests\WPF_WEB\Request\bin\Debug\Request.exe
+D:\Пары\Git\WPF_Tests\WPF_WEB\Request\bin\Debug\Request.pdb
+D:\Пары\Git\WPF_Tests\WPF_WEB\Request\obj\Debug\MainWindow.g.cs
+D:\Пары\Git\WPF_Tests\WPF_WEB\Request\obj\Debug\App.g.cs
+D:\Пары\Git\WPF_Tests\WPF_WEB\Request\obj\Debug\Request_MarkupCompile.cache
+D:\Пары\Git\WPF_Tests\WPF_WEB\Request\obj\Debug\Request_MarkupCompile.lref
+D:\Пары\Git\WPF_Tests\WPF_WEB\Request\obj\Debug\MainWindow.baml
+D:\Пары\Git\WPF_Tests\WPF_WEB\Request\obj\Debug\Request.g.resources
+D:\Пары\Git\WPF_Tests\WPF_WEB\Request\obj\Debug\Request.Properties.Resources.resources
+D:\Пары\Git\WPF_Tests\WPF_WEB\Request\obj\Debug\WebRequest.csproj.GenerateResource.cache
+D:\Пары\Git\WPF_Tests\WPF_WEB\Request\obj\Debug\WebRequest.csproj.CoreCompileInputs.cache
+D:\Пары\Git\WPF_Tests\WPF_WEB\Request\obj\Debug\Request.exe
+D:\Пары\Git\WPF_Tests\WPF_WEB\Request\obj\Debug\Request.pdb
